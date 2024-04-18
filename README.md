@@ -16,19 +16,38 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Aden:**
+- **Date: 18/04/2024**
+- **Current Role/Position: SDF student**
+- **Field of Interest: Game development and App developement**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
-    
+    **Current Skills:
+   -Able to use basic html and bits of advanced css
+   -Able to use basic JS
+   -Can use a bit of the css framework Tailwind
+
+    **Develop/Improve:
+   -Improve javascript overall understanding and usage
+   -Flexbox/Grid
+   -Improve usage of frameworks
+
     - List your current skills and areas of expertise.
     - Identify skills you need to develop or improve.
-2. **Interests and Values**:
-    
+      
+1. **Interests and Values**:
+    **Key interest's:
+   -My biggest interest is building an app or game from scratch and figuring out what works and what doesn't.
+   -I have always been interested in how the innner workings of a game is created, how bugs are fixed in them and how you can change different source codes to even mod the game or app.
+
+    **Values at work:
+   -Communication, theres no point to having a team whose not passionate on the project were developing cause that just leads to arguments and projects becoming delayed.
+   -Good enviroment, im not saying it always has to be perfect or theres no problems that will arise, but when times like this do happen that everyone will help one another out and work as a team.
+   -Fun, most importantly it has to make me feel like I want to come back to the office or alwyas open my pc from home. A added bonus if the projects are always fresh.
+
+
     - Describe your key interests related to your career.
     - What values are important to you in a work environment?
 
